@@ -170,15 +170,11 @@ If those four are not above the fold, conversion suffers. Effects that compete w
 
 Everything above applies to data work, plus these rules from our own practice:
 
-- **One question per chart.** Its headline answers the question; its subtitle says exactly what is measured.
-- **Every chart carries its source and a date.** Methodology is one click away.
 - **Direct labels beat legends.** Put the label on the line, the bar or the state.
 - **No decorative KPI tiles.** A row of big numbers with tiny sparklines is the dashboard version of the three-card row.
-- **No pie or donut charts, no 3D, no dual axes.**
-- **Hand-built SVG over chart-library defaults.** Library defaults are the chart world's purple gradient; newsrooms (AP, FT, NYT) draw their graphics deliberately, and that is why they read as journalism.
+- **Hand-built SVG over chart-library defaults.** Library defaults are the chart world's purple gradient; newsrooms draw their graphics deliberately, and that is why they read as journalism.
 - **Squared geometry.** Hairline rules, corner radii of 0 to 2px, seats and units drawn as squares.
 - **Tooltips are a convenience,** never the only way to get a number (see section 4).
-- **The page works with JavaScript off** at its default state, then interaction enhances it.
 
 > **To add:** Stephane's notes on what the reviewers said about dashboards in the episode.
 
@@ -186,7 +182,6 @@ Everything above applies to data work, plus these rules from our own practice:
 
 ## 11. Working with AI without outsourcing your thinking
 
-Raphael's closing point: he would have loved to have these AI superpowers when he built his first website, and you are still responsible for not outsourcing your thinking to the model. Use the tools to get *your* ideas, designs and interactions onto the web.
 
 In practice:
 
